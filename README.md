@@ -3,4 +3,4 @@ Git aliases based on ['https://www.hschne.at/git-aliases/'](https://www.hschne.a
 
 ## Linux
 ----
-Copy and Paste .bash_profile content on ~/.bash_profile
+Copy and Paste .bashrc.d content on ~/bashrc.d/ directory
